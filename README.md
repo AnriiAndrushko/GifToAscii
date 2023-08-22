@@ -1,4 +1,4 @@
-# GifToAscii
+# Gif To Ascii
 Simple console program that converts gif file into console ascii image and show it with color
 See example below
 Original:
